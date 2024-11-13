@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://localhost/my_portfolio';
+$config['base_url'] = 'https://ap2498.github.io/my_portfolio/';
 
 /*
 |--------------------------------------------------------------------------
